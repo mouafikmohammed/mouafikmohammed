@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mohammed Mouafik from Morocco @mouafikmohammed
-- 👀 I’m interested in solve problems, AI and Machine Learning
-- 🌱 I’m currently learning Software enginerring
+- 👀 I’m interested in  "WEB, AI and Machine Learning"
+- 🌱 I’m currently learning Software Enginerring
 - 📫 How to reach me: mohammedmouafik@hotmail.com
