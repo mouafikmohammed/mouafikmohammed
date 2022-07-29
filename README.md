@@ -6,7 +6,7 @@
 
 <hr/>
 
-## Social Networks 👨‍🦲
+## Social Networks 😎
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/mouafik/)](https://www.linkedin.com/in/mouafik/)
 - [![Twitter](https://img.shields.io/badge/-Twitter-FFFFFF?style=flat&logo=twitter&link=https://twitter.com/MohammedMouafi1)](https://twitter.com/MohammedMouafi1)
