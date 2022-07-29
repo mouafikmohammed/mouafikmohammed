@@ -1,7 +1,7 @@
 ### Hey  👋
-- 😁 Hi, I’m Mohammed Mouafik from Morocco @mouafikmohammed
+- 😁 Hi, I’m Mohammed Mouafik and this year is my third years at university Computer Science.
 - 👀 I’m interested in  "WEB, AI and Machine Learning"
-- 🌱 I’m currently learning Software Enginerring
+- 🌱 I’m currently learning Software Enginerring.
 - 📫 How to reach me: [mohammedmouafik@hotmail.com](mailto:mohammedmouafik@hotmail.com)
 
 <hr/>
