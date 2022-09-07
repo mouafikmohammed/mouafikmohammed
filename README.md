@@ -1,6 +1,6 @@
 ### Hey  👋
 - 😁 Hi, I’m Mohammed Mouafik and this year is my third years at university **"Computer Science"**.
-- 👀 I’m interested in  AI and Machine Learning
+- 👀 I’m interested in  AI.
 - 🌱 I’m currently learning Software Enginerring.
 - 📫 How to reach me: [mohammedmouafik@hotmail.com](mailto:mohammedmouafik@hotmail.com)
 
