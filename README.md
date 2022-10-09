@@ -14,9 +14,6 @@
 
 ## Stats 📑
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mouafikmohammed) 
 ![GitHub Followers](https://img.shields.io/github/followers/mouafikmohammed?label=Follow&logo=Github&style=social)
 
 [![Mohammed Mouafik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouafikmohammed&count_private=true&show_icons=true&theme=dark)](https://github.com/mouafikmohammed) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouafikmohammed&layout=compact&theme=dark)](https://github.com/mouafikmohammed)
