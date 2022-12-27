@@ -10,6 +10,7 @@ In addition to my passion for web development, I am also interested in data anal
 Thank you for taking the time to learn more about me. I look forward to connecting with you and discussing my skills and experience further.
 
 <hr/>
+
 - 📫 How to reach me: **mohammedmouafik@hotmail.com**
 <hr/>
 
