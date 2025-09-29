@@ -4,7 +4,7 @@
 
 ## Hey  👋
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-Hi there! My name is <b>Mohammed Mouafik</b>, and I am a 💻 22 year old Junior Web Developer 💻 based in 📍 Morocco.
+Hi there! My name is <b>Mohammed Mouafik</b>, and I am a 💻 25 year old Junior Web Developer 💻 based in 📍 Morocco.
 
 I am currently in my third year at university studying 🔋 <b style="color:#9252F7FF">Computer Science and Engineering</b>, and I am passionate about learning software engineering and problem solving using Python 🐍. My ultimate goal is to become a 🤖 Software Engineer 🤖, and I am always looking for ways to improve my skills and stay up-to-date 🧪 in my field.
 
